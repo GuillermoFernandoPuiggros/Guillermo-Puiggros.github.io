@@ -1,21 +1,20 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+layout: default
+title: Guillermo Fernando Puiggros
+description: Developer & IT Enthusiast, Electromechanical Enginner 
+site_title: '@Guillermo - Guillermo Puiggros'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: GuillermoFernandoPuiggros
+blog_url: https://guillermofernandopuiggros.github.io
+email: gfpuiggros@gmail.com
+linkedin_username: www.linkedin.com/in/guillermo-puiggros
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
 
 # Google Analytics ID
-google_analytics: 
+#google_analytics: # UA-XXXXXXXXX-X (opcional, agregar después)

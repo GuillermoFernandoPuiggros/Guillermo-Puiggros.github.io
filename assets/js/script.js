@@ -30,7 +30,8 @@ function initSmoothScrolling() {
             if (targetElement) {
                 targetElement.scrollIntoView({
                     behavior: 'smooth',
-                    block: 'start'
+                    block: 'start',
+                    inline: 'nearest'
                 });
             }
         });

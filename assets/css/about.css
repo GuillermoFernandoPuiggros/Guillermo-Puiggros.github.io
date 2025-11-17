@@ -1,0 +1,30 @@
+/* about.css - Sección sobre mí */
+.about {
+    background: var(--bg-light);
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about-text p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+    color: #555;
+}
+
+.about-text strong {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* Responsive - About */
+@media (max-width: 768px) {
+    .about-text p {
+        font-size: 1.1rem;
+        text-align: left;
+    }
+}

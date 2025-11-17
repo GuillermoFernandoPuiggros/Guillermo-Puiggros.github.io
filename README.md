@@ -4,7 +4,7 @@ Portfolio web personal desarrollado con Jekyll y GitHub Pages. Un sitio moderno,
 
 ## 🌐 Demo
 
-El sitio está disponible en: [Guillermo-Puiggros.github.io](https://guillermo-puiggros.github.io)
+El sitio está disponible en: [GuillermoFernandoPuiggros.github.io](https://guillermofernandopuiggros.github.io)
 
 ## ✨ Características
 
@@ -38,8 +38,8 @@ El sitio está disponible en: [Guillermo-Puiggros.github.io](https://guillermo-p
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/Guillermo-Puiggros/Guillermo-Puiggros.github.io.git
-   cd Guillermo-Puiggros.github.io
+   git clone https://github.com/GuillermoFernandoPuiggros/GuillermoFernandoPuiggros.github.io.git
+   cd GuillermoFernandoPuiggros.github.io
    ```
 
 2. **Instalar dependencias**
@@ -138,7 +138,7 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras algún pr
 
 Para más información, puedes contactarme a través de:
 
-- GitHub: [@Guillermo-Puiggros](https://github.com/Guillermo-Puiggros)
+- GitHub: [@GuillermoFernandoPuiggros](https://github.com/GuillermoFernandoPuiggros)
 - Email: (configurado en `_config.yml`)
 
 ---
